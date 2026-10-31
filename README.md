@@ -2,5 +2,5 @@
 This repo is all about the certificates I collected during my AI/ML internship at Fly Rank.
 
 There are 3 types of certificates:
-1. Beginner;
+1. Beginner-level certificates;
 2.  
