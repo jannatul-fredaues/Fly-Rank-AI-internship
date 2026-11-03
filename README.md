@@ -3,4 +3,5 @@ This repo is all about the certificates I collected during my AI/ML internship a
 
 There are 3 types of certificates:
 1. Beginner-level certificates;
-2. Intermediate-level certificates;  
+2. Intermediate-level certificates;
+3. Advance
